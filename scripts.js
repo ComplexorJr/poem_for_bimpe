@@ -6,25 +6,25 @@ const message = `To You, My Friend—A Gift in Human Form
 
 Your words touched me deeper than you may know,
 Like rain on dry earth, they helped my spirit grow.
-From the moment we met, something just felt right—
+From the moment we had a connection, something just felt right—
 A friendship born not of chance, but of light.
 
 Through laughter and silence, you’ve stood by me 
 A safe space, a joy, a calm in life’s sea.
 Not many find a friend so rare, so true—
-But somehow, God knew I needed you.
+But somehow, God knew I needed you 😁.
 
 Our bond is more than casual chats and shared days,
 It’s in the small things, the loyal, quiet ways.
 In a world that often rushes by and forgets,
 You are the soul who remembers, who never regrets.
 
-They might question why we’re close or how,
+They might question why we’re close or how,🤧
 But I thank heaven we have this now.
 Let them wonder—our friendship won’t bend,
 We were built to last, my forever friend.
 
-We’ll rise through deadlines, exams, and stress,
+We’ll rise through deadlines, exams, and stress,💪
 Helping each other give nothing but our best.
 And when we finally look back and smile,
 It'll be worth every late night and every mile.
@@ -32,7 +32,7 @@ It'll be worth every late night and every mile.
 So here’s my vow, simple and true—
 No matter where life takes us, I’m grateful for you.
 You’re more than a friend— a rare one,
-And this bond we share will never cease.
+And this bond we share will never cease.💎
 `;
 
 emojiEnvelope.addEventListener('click', () => {
